@@ -1,4 +1,5 @@
-## AWS Patterns And Practices Docs
+## Enterprise Guides Patterns & Solutions
+Solutions
 
 Accelerating business outcomes with confidence
 
