@@ -4,7 +4,7 @@ Enterprise Guides, Patterns, and Solutions (Enterprise GPS) provides time-tested
 
 For HTML and PDF versions of the guides included in this repo, see the Enterprise GPS website. For a complete set of migration patterns, see the [Migration Pattern Library](https://mpl-proserve.amazonaws.com/).
 
-To post feedback, submit feature ideas, or report bugs, use the **Issues** section of this GitHub repo. 
+To post feedback, submit feature ideas, or report bugs, use the **Issues** section of this GitHub repo. If you'd like to contribute changes and improvements, create a pull request. (See [detailed instructions](https://aws.amazon.com/blogs/aws/aws-documentation-is-now-open-source-and-on-github/.) 
 
 ## License Summary
 
