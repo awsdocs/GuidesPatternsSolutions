@@ -1,6 +1,6 @@
 ## Enterprise Guides, Patterns, and Solutions (Enterprise GPS)
 
-Enterprise Guides, Patterns, and Solutions (Enterprise GPS) provides time-tested, prescriptive solutions from Amazon Web Services (AWS) and its partners to help accelerate your cloud adoption. These solutions were developed by experts at AWS Professional Services, based on years of experience helping customers realize their business objectives on AWS. 
+Enterprise Guides, Patterns, and Solutions (Enterprise GPS) provides time-tested, prescriptive solutions from Amazon Web Services (AWS) to help accelerate your cloud adoption. These solutions were developed by experts at AWS Professional Services, based on years of experience helping customers realize their business objectives on AWS. 
 
 For HTML and PDF versions of the guides included in this repo, see the Enterprise GPS website. For a complete set of migration patterns, see the [Migration Pattern Library](https://mpl-proserve.amazonaws.com/).
 
